@@ -9,9 +9,9 @@ decide that you want to start saving to buy a house. As housing prices are very 
 you realize you are going to have to save for several years before you can afford to make the down
 payment on a house. In Part A, we are going to determine how long it will take you to save enough
 money to make the down payment.
- Name- Sumanta Mandal 
+ Name- Richa Roy
  Branch:Computer Science Engineering 
- Roll No:18/CSE/041
+ Roll No:18/CSE/080
  
 """
 
